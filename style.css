@@ -258,15 +258,15 @@ nav .fa{
      margin: auto;
      margin-bottom: 5%;
      /* width: 100%; */
-     background-image: linear-gradient(rgba(36, 36, 39, 0.7),rgba(32, 32, 36, 0.8)), url(photos/hacker1.jpg);
-     /* background: rgb(250, 246, 246); */
+     /* background-image: linear-gradient(rgba(36, 36, 39, 0.7),rgba(32, 32, 36, 0.8)), url(photos/hacker1.jpg); */
+     background: rgb(250, 246, 246);
      background-size: cover;
      padding: 40px;
  }
 
  .course1 p{
-    /* color:rgb(8, 8, 8); */
-    color: rgb(255, 255, 255);
+    color:rgb(8, 8, 8);
+    /* color: rgb(255, 255, 255); */
     font-size: 18px;
     font-weight: 400;
     line-height: 22px;
@@ -278,8 +278,8 @@ nav .fa{
     font-weight: 600;
     padding-top: 50px;
     padding-bottom: 20px;
-    /* color: #030303; */
-    color: #fff;
+    color: #030303;
+    /* color: #fff; */
     
 }
 
